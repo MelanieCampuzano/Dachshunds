@@ -1,0 +1,38 @@
+
+h1{
+	text-align: center;
+}
+
+p{
+	color: #cc0066;
+}
+
+.photo{
+	background-color: #ffcc99;
+	width: 600px;
+	border: 10px;
+	border-color: #ff9966;
+	border-style: groove;
+	padding: 30px;
+	margin: 20px;
+}
+
+
+.info{
+	border-style: groove;
+	border-color: #cc99ff;
+	background-color: plum;
+}
+
+
+
+
+div{
+	background-color: #ffcc99;
+	width: 300px;
+	border: 10px;
+	border-color: #ff9966;
+	border-style: groove;
+	padding: 30px;
+	margin: 20px;
+}
